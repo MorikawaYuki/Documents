@@ -1,5 +1,6 @@
 # All you have to know about wifi and radiation
 
+
 ## Wi-Fi is everywhere
 ---
 * Wi-Fi makes life easier
